@@ -2,6 +2,7 @@
 > This little component allows to randomly iterate over an array using iterators and generators.
 
 [![CodeFactor](https://www.codefactor.io/repository/github/hqarroum/random-iterator/badge)](https://www.codefactor.io/repository/github/hqarroum/random-iterator)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHQarroum%2Frandom-iterator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHQarroum%2Frandom-iterator?ref=badge_shield)
 
 Current version: **1.0.0**
 
@@ -49,3 +50,7 @@ However, in the context of a browser, the `Random` object name is exported in th
 // attribute will be restored.
 var random = Random.noConflict();
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHQarroum%2Frandom-iterator.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHQarroum%2Frandom-iterator?ref=badge_large)
